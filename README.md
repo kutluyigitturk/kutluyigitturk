@@ -24,4 +24,4 @@
 
 ---
 
-*"Building things, one commit at a time."*
+*"Aut viam inveniam aut faciam"*
