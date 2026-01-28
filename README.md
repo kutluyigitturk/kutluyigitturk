@@ -16,16 +16,6 @@
 - 🛡️ **[miniPentestToolkit](https://github.com/kutluyigitturk/miniPentestToolkit)** - A comprehensive penetration testing toolkit for security professionals
 - ✈️ **[AirfoilAngleDetect](https://github.com/kutluyigitturk/AirfoilAngleDetect)** - Detecting airfoil angles using OpenCV and Python
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kutluyigitturk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutluyigitturk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Kutlu_Yigitturk-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kutlu-yigitturk/)
