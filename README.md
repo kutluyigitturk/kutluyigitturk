@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Kutlu 👋
 
-<!--
-**kutluyigitturk/kutluyigitturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Turkey** | 💻 **Software Developer**
 
-Here are some ideas to get you started:
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org)
+[![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://java.com)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Electrical-Electronics Engineer turned Software Developer. I love building tools and exploring new technologies.
+
+## 🚀 Current Projects
+
+- 🛡️ **[miniPentestToolkit](https://github.com/kutluyigitturk/miniPentestToolkit)** - A comprehensive penetration testing toolkit for security professionals
+- ✈️ **[AirfoilAngleDetect](https://github.com/kutluyigitturk/AirfoilAngleDetect)** - Detecting airfoil angles using OpenCV and Python
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kutluyigitturk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutluyigitturk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Kutlu_Yigitturk-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kutlu-yigitturk/)
+[![Twitter](https://img.shields.io/badge/-@KutluYigitturk-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/KutluYigitturk)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kutluyigitturk)
+
+---
+
+*"Building things, one commit at a time."*
